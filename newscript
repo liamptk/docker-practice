@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Comment
+echo "Hello World!"
+
+myName="Liam"
+
+echo _myName
